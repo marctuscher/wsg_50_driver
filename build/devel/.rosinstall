@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ai/catkin_ws/src/wsg50/wsg_50_driver/build/devel/setup.sh

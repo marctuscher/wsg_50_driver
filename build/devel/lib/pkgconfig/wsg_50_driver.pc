@@ -1,0 +1,8 @@
+prefix=/home/ai/catkin_ws/src/wsg50/wsg_50_driver/build/devel
+
+Name: wsg_50_driver
+Description: Description of wsg_50_driver
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ai/catkin_ws/src/wsg50/wsg_50_driver/build/devel/lib 
+Requires: roscpp std_msgs std_srvs wsg_50_common
